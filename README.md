@@ -1,5 +1,6 @@
 # Mondrian-Generator
-Creates Imitation 'Compositions' a la Piet Mondrian
+
+Creates imitation 'Compositions' a la Piet Mondrian.
 
 Just run it.
 
